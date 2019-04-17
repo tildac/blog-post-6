@@ -10,4 +10,4 @@ Suzanne Anker's 'Remote Sensing' is an artwork that interweaves digital sculptur
 
 
 # blog-post-6
-# blog-post-6-round-2
+# blog-post-6
